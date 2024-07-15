@@ -1,0 +1,8 @@
+[package]
+name = "Encyclopedia_of_Parentheses"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+proconio = "0.5.0"
+
