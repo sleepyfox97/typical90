@@ -19,7 +19,7 @@ $ cargo run
 ```
 標準入力として、問題文に付属の入力例をペーストしてエンターを押すことで実行可能<br>
 
-テストは各ディレクトリで以下のコマンドを実行する<br>
+テストに関しては各ディレクトリで以下のコマンドを実行する<br>
 ```shell
 $ cargo test
 ```
@@ -36,3 +36,7 @@ $ cargo test
 * [the book](https://doc.rust-lang.org/book/)
 * [rustlings](https://github.com/rust-lang/rustlings/)
 * [rust playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021)
+
+# アルゴリズム周りの学習ツール
+* アルゴ式の[データ構造とアルゴリズム](https://algo-method.com/topics)の章をやる．
+* LeetCodeの[Blind75](https://leetcode.com/problem-list/oizxjoit/)
