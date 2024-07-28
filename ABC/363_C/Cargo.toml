@@ -1,0 +1,9 @@
+[package]
+name = "abc_363_c"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.13.0"
+permutohedron = "0.2.4"
+proconio = "0.5.0"
